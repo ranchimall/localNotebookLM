@@ -1,0 +1,6 @@
+chromadb>=0.5.0
+sentence-transformers>=2.2.2
+
+# Optional: only needed if you want query.py to generate an answer
+# (not just show retrieved notes) using the Claude API.
+anthropic>=0.30.0
