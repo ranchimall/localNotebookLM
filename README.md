@@ -1,0 +1,1 @@
+This project falls under the ProjectAI Token System of RanchiMall Artificial Intelligence Blockchain Contract AIBC. This semantically searches your ingested notes and documents (Keep, PDF, DOCX, TXT, images) and exports results as PPTX/PDF.
